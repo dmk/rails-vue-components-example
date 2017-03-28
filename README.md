@@ -1,5 +1,7 @@
 # Rails vuejs components example
 
+# !!! I think it became useless because of https://github.com/rails/webpacker#ready-for-vue :smile:
+
 ## Isntallation
 1. Setup the database
 2. `npm install`

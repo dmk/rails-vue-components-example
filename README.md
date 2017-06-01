@@ -1,6 +1,6 @@
 # Rails vuejs components example
 
-# !!! I think it became useless because of https://github.com/rails/webpacker#ready-for-vue :smile:
+### !!! I think it became useless because of https://github.com/rails/webpacker#ready-for-vue :smile: (unless you don't want to use webpack)
 
 ## Isntallation
 1. Setup the database
